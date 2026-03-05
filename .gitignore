@@ -32,3 +32,10 @@ phpunit.phar
 
 # nginx config file
 *.conf
+
+.mcp.json
+
+# audit artifacts (generated, local state)
+.ai-factory/audit/registry.json
+.ai-factory/audit/certs-fingerprints.json
+.ai-factory/audit/audit-report.txt
