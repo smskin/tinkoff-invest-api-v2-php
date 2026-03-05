@@ -1,7 +1,7 @@
 {
-    "name": "metaseller/tinkoff-invest-api-v2-php",
+    "name": "smskin/tinkoff-invest-api-v2-php",
     "version": "0.5.2",
-    "description": "Unofficial PHP SDK for T-Invest API v2",
+    "description": "Audited fork of Unofficial PHP SDK for T-Invest API v2",
     "type": "library",
     "license": "Apache-2.0",
     "keywords": [
